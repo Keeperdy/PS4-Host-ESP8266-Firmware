@@ -14,9 +14,9 @@ The payloads list include:
 - Disable/Enable Updates
 
 PS4 Wi-fi Settings:
-Network: PS4
-Password: qwertyuiop
-DNS: 13.13.13.1
+- Network: PS4
+- Password: qwertyuiop
+- DNS: 13.13.13.1
 
 CREDITS TO 
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, etc
