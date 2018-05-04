@@ -1,4 +1,4 @@
-# PS4-Host-ESP8266-Firmware OFW 4.55/Прошивка для ESP8266 (вэб-сервер для хоста эксполитов/пэйлоадов Playstation 4 (ПО 4.55), описание на русском смотрите внизу текста)
+# PS4-Host-ESP8266-Firmware OFW 4.55/Прошивка для ESP8266 PS4 Хост (ПО 4.55) (описание на русском смотрите внизу)
 
 ATTENTION!
 1. Best combination for gaming: Original+HEN (load one after another)
@@ -24,6 +24,7 @@ PS4 Wi-Fi Settings:
 - Network: PS4
 - Password: qwertyuiop
 - DNS: 13.13.13.1
+- other setting: automatic
 
 CREDITS TO 
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer, etc
@@ -51,9 +52,9 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer
 Прошивка предоставляется в формате bin для заливки в модуль с помощью NodeMCU-PyFlasher 3.0
 
 Настройки Wi-Fi для PS4:
-Сеть: PS4
-Пароль: qwertyuiop
-DNS: 13.13.13.1 (прописывается вручную)
-Остальные: автоматически
+- Сеть: PS4
+- Пароль: qwertyuiop
+- DNS: 13.13.13.1 (прописывается вручную)
+- Остальные: автоматически
 
-Особая благодарность разработчикам: CREDITS TO Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer, etc
+Особая благодарность разработчикам: CREDITS TO Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer и т.д.
