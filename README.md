@@ -30,7 +30,7 @@ CREDITS TO
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer, etc
 
 
-
+# Прошивка для ESP8266
 Данный репозиторий содержит прошивку для модуля ESP8266 с поднятием вэб-сервера для хоста эксполитов/пэйлоадов Playstation 4 для ПО 4.55
 
 ВНИМАНИЕ!
