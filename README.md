@@ -27,7 +27,7 @@ PS4 Wi-Fi Settings:
 - other setting: automatic
 
 CREDITS TO 
-Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer, etc
+Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, etc
 
 
 # Прошивка для ESP8266
@@ -59,4 +59,4 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer
 - DNS: 13.13.13.1 (прописывается вручную)
 - Остальные: автоматически
 
-Особая благодарность разработчикам: CREDITS TO Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, Anonymous, Marcelstoer и т.д.
+Особая благодарность разработчикам: CREDITS TO Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer и т.д.
