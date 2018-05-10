@@ -23,11 +23,13 @@ The payloads list includes:
 **PS4 Wi-Fi Settings (EASY):**
 - Network: PS4
 - Password: qwertyuiop
+
 Test internet connection" also passes successfully with such settings!
 
 Upload firmware in .bin format via NodeMCU-PyFlasher 3.0 
 
 **CREDITS TO:** 
+
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, etc
 
 
