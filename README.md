@@ -59,4 +59,4 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 - DNS: 13.13.13.1 (прописывается вручную)
 - Остальные: автоматически
 
-Особая благодарность разработчикам: CREDITS TO Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer и т.д.
+Особая благодарность разработчикам: Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer и т.д.
