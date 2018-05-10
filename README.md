@@ -24,7 +24,7 @@ PS4 Wi-Fi Settings:
 - Network: PS4
 - Password: qwertyuiop
 - DNS: 13.13.13.1
-- other setting: automatic
+- Other settings: automatic
 
 CREDITS TO 
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, etc
