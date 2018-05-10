@@ -24,7 +24,7 @@ The payloads list includes:
 - Network: PS4
 - Password: qwertyuiop
 
-Test internet connection" also passes successfully with such settings!
+"Test internet connection" also passes successfully with such settings!
 
 Upload firmware in .bin format via NodeMCU-PyFlasher 3.0 
 
@@ -65,4 +65,5 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 С данными настройками так же успешно проходится тест на подключение к интернету!
 
 **Особая благодарность разработчикам:**
+
 Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer и т.д.
