@@ -3,7 +3,16 @@ Hi, guys! Concerning situation with c0d3m4st4 code used in my ESP firmwares - he
 
 My firmware is written from the scracth, using Arduino in-built examples and modified by me!!! **I NEVER TOOK OR STOLE ANYONE'S WORK TO PRESENT IT LIKE MY OWN!!!**
 
-I made a video of a full process where you can see how it works! Video: https://drive.google.com/open?id=1_Drp0A0sBM5yU9vVWsz9NjdxsnubvqVm … The file is over 700 Mb with step-by-step comments. Now I will clear all my firmwares from c0d3m4st4's code traces and update them on Github!!! Sorry for inconveniences!!!
+I made a video of a full process where you can see how it works! Video: https://drive.google.com/open?id=1_Drp0A0sBM5yU9vVWsz9NjdxsnubvqVm … The file is over 700 Mb with step-by-step comments.
+
+1. Flashing ESP with blank 4mb bin file 
+2. Uploading my sketch and dump bin file 
+3. Checking it in WinHex (it crashes sometimes) for c0d3m4st4's code 
+4. Flashing ESP with his last FW 
+5. Upload again the SAME sketch without erasing the content and dumping a bin file 
+6. Finding with WinHex the pieces of his code!!!
+
+Now I will clear all my firmwares from c0d3m4st4's code traces (and probably other devs too) and update them on Github!!! Sorry for inconveniences!!!
 
 
 # PS4-Host-ESP8266-Firmware OFW 4.55/Прошивка для ESP8266 PS4 Хост (ПО 4.55) (описание на русском смотрите внизу)
