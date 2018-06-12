@@ -1,3 +1,9 @@
+# NB!!! STOLEN CODE FROM C0d3m4st4
+Hi, guys! Concerning situation with c0d3m4st4 code used in my ESP firmwares - he blames me his code being stolen and used by me - I want to make it clear that it's just **a stupid mistake,** specifically, my mistake that I did not clear ESP flash memory before uploading any sketch in it. However, I've just found this function, too late. So, if you use somebody's firmware and then upload your sketch via Arduino (Not NodeMCU-flasher) over it, it will replace only sketch code and allocate SPIFF files in flash memory according to their size. The rest is unchanged, so if you firmware is smaller than all 4Mb, you can find the traces of previously loaded firmwares to ESP code! 
+My firmware is written from the scracth, using Arduino in-built examples and modified by me!!! I NEVER TOOK OR STOLE ANYONE'S WORK TO PRESENT IT LIKE MY OWN!!!
+I made a video of a full process where you can see how it works! Video: https://drive.google.com/open?id=1_Drp0A0sBM5yU9vVWsz9NjdxsnubvqVm … The file is over 700 Mb with step-by-step comments. Now I will clear all my firmwares from c0d3m4st4's code traces and update them on Github!!! Sorry for inconveniences!!!
+
+
 # PS4-Host-ESP8266-Firmware OFW 4.55/Прошивка для ESP8266 PS4 Хост (ПО 4.55) (описание на русском смотрите внизу)
 
 **ATTENTION!**
